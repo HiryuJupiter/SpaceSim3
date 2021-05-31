@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/SpaceSim/TopDown3DController.unity
+    path: Assets/TopDown3DController.unity
     guid: 0ce2a193c5cdac040b3d86fc4b418ee8
   m_configObjects: {}
