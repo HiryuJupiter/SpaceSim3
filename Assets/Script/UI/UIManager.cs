@@ -105,10 +105,10 @@ namespace HiryuTK.AsteroidsTopDownController
             SetDepthBuffer1();
         }
 
-        private void OnDisable()
-        {
-            Camera.main.targetTexture = existingRenderTexture;
-            renderTextureMaterial.mainTexture = existingRenderTexture;
-        }
+        //private void OnDisable()
+        //{
+        //    Camera.main.targetTexture = existingRenderTexture;
+        //    renderTextureMaterial.mainTexture = existingRenderTexture;
+        //}
     }
 }
